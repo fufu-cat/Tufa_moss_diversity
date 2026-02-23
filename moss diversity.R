@@ -15,7 +15,7 @@
 # Full names, abbreviations, and descriptions of all variables are provided in the Supporting Table (.xlsx): "Sheet3. Data description".
 # data_desc <- read_excel("3_Supporting Table.xlsx", sheet = "3. Data description"); print(as_tibble(data_desc))
 
-names(env)
+
 
 
 # Please ensure an active internet connection for the first run to install missing packages.
@@ -895,5 +895,6 @@ plot(rda.vpa, cutoff = -Inf, cex = 1, digits = 2, bg = 2:5, Xnames=c("eco","env"
 
 #### All statistical analyses and visualizations presented in the main text have been completed ####
 #END
+
 
 
