@@ -4,6 +4,10 @@
 # Date: February 2026
 # Correspondence: Zhaohui Zhang (zhaozhang9@hotmail.com)
 
+# If you use the data, scripts, or conceptual framework from this repository, please cite:
+# Zhou, Y., Wei, Q., Liang, X., Li, C., Chen, H., Wang, Z., & Zhang, Z. (2026). Patterns and drivers of tufa moss diversity across alpine petrifying springs landscape gradient on the Tibetan Plateau. Global Ecology and Conservation, e04210. 
+# https://doi.org/10.1016/j.gecco.2026.e04210
+
 
 
 
