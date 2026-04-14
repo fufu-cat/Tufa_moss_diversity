@@ -121,9 +121,8 @@ Random permutation procedures (e.g., Mantel tests, hierarchical partitioning) ma
 
 If you use the data, scripts, or conceptual framework from this repository, please cite:
 
-Zhou et al. (in review). *Patterns and drivers of tufa moss diversity across the alpine petrifying springs landscape gradient on the Tibetan Plateau.*
-
-This citation will be updated with journal information and DOI once available.
+Zhou, Y., Wei, Q., Liang, X., Li, C., Chen, H., Wang, Z., & Zhang, Z. (2026). Patterns and drivers of tufa moss diversity across alpine petrifying springs landscape gradient on the Tibetan Plateau. *Global Ecology and Conservation*, e04210. 
+https://doi.org/10.1016/j.gecco.2026.e04210
 
 ---
 
