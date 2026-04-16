@@ -4,7 +4,8 @@
 
 This repository contains R scripts and processed data used for the manuscript:
 
-** Zhou, Y., Wei, Q., Liang, X., Li, C., Chen, H., Wang, Z., & Zhang, Z. (2026). Patterns and drivers of tufa moss diversity across alpine petrifying springs landscape gradient on the Tibetan Plateau. Global Ecology and Conservation, e04210. https://doi.org/10.1016/j.gecco.2026.e04210
+Zhou, Y., Wei, Q., Liang, X., Li, C., Chen, H., Wang, Z., & Zhang, Z. (2026). Patterns and drivers of tufa moss diversity across alpine petrifying springs landscape gradient on the Tibetan Plateau. *Global Ecology and Conservation*, e04210. 
+https://doi.org/10.1016/j.gecco.2026.e04210
 
 The repository ensures full transparency and reproducibility of all statistical analyses and visualizations presented in the manuscript.
 
